@@ -1,0 +1,6 @@
+{
+    "go.testEnvVars": {
+        "DB_PORT": "30543"
+    },
+    "go.testFlags": ["-v"]
+}
