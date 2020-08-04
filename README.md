@@ -1,8 +1,6 @@
-# BDX Web Framework
+# [BDX Web Framework](https://github.com/belldata-dx/bdx)
 
-<img src="https://raw.githubusercontent.com/belldata/bximage/master/bxGolang.png" align="right">
-
-github.com/belldata-dx/bdx
+<img src="https://raw.githubusercontent.com/belldata-dx/bdx-doc-image/master/bxGolang.png" align="right">
 
 bdxは Go(Golang)で記述されたWebフレームワークです。
 
@@ -17,7 +15,7 @@ bdxは Go(Golang)で記述されたWebフレームワークです。
 
 ## Installation
 
-`go get [github.com/belldata-dx/bdx](https://github.com/belldata-dx/bdx.git)`
+`go get github.com/belldata-dx/bdx`
 
 ## Quick Start
 
