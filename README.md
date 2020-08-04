@@ -12,6 +12,7 @@ bdxは Go(Golang)で記述されたWebフレームワークです。
   - [Quick Start](#quick-start)
   - [API Example](#api-example)
     - [`GET`, `POST`, `PUT`, `DELETE`, `OPTIONS`を提供しています](#get-post-put-delete-optionsを提供しています)
+  - [TODO](#todo)
 
 ## Installation
 
@@ -66,3 +67,7 @@ func main() {
 ```
 
 詳細なサンプルは[ここを参照](_examples/domain-driven-design/examples.go)
+
+## TODO
+
+swagger(2.0) or OpenAPI(3.0)に対応
